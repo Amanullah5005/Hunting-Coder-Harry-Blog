@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/About": "pages/About.html",
+  "/api/blogs": "pages/api/blogs.js",
+  "/api/getblog": "pages/api/getblog.js",
+  "/api/hello": "pages/api/hello.js",
+  "/api/postcontact": "pages/api/postcontact.js",
+  "/contact": "pages/contact.html",
+  "/": "pages/index.html",
+  "/blogpost/[slug]": "pages/blogpost/[slug].js",
+  "/blog": "pages/blog.js",
+  "/404": "pages/404.html"
+}
