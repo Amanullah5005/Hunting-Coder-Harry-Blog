@@ -1,0 +1,36 @@
+.main {
+  min-height: 100vh;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: 3rem;
+}
+
+.container {
+  padding: 0 22rem;
+}
+.HrhonMain{
+  background-color: white;
+  width: 100%;
+  height: 3px;
+}
+.blogItemheading {
+  font-family:  Helvetica, sans-serif;
+  font-size: 30px;
+  margin: 20px;
+}
+.blogText{
+  padding-top: 20px;
+  font-size: 14px;
+  font-family:  Helvetica, sans-serif;
+  text-align: center;
+}
+
+@media screen and (max-width: 510px) {
+.container{
+  padding: 3vw;
+}
+}
